@@ -1,0 +1,8 @@
+{
+  "name": "Svashicalis CRM - Add WhatsApp",
+  "description": "Professional Quality of Chocolates - Order Management System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
